@@ -9,7 +9,7 @@ def main():
   print('1) Inspirational quote')
   print('2) Dog fact')
   print('3) Anime quote ^_^') 
-  answer = int(input("Did you make a choice? Please enter the number of your choice:\n"))
+  answer = int(input("Did you make a choice? Please enter the number:\n"))
  
   if answer == 1:
      print(motivate)
