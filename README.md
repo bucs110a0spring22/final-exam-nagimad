@@ -9,19 +9,26 @@ _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
 Please make sure you have completed the soot survey at:
-    [soot.binghamton.edu](https://soot.binghamton.edu)
+    [soot.binghamton.edu](https://soot.binghamton.edu) - comepleted :))
 
-Please list the urls for the APIs you used:
+#### Please list the urls for the APIs you used:
 
-Summary of Program:
+https://animechan.vercel.app/api/random
 
-Most Challenging topic in the course:
+http://dog-api.kinduff.com/api/facts
+
+https://api.goprogram.ai/inspiration
+
+#### Summary of Program:
+The program generates a random quote(or a fact) based on the user's input
+
+#### Most Challenging topic in the course:
+n/a 
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
-
+ n/a
 ## REFERENCES:
- < List any outside resources used >
+ github api respiratory
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ n/a
