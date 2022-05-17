@@ -17,10 +17,10 @@ https://animechan.vercel.app/api/random
 
 http://dog-api.kinduff.com/api/facts
 
-https://api.goprogram.ai/inspiration
+https://x-math.herokuapp.com/api/random
 
 #### Summary of Program:
-The program generates a random quote(or a fact) based on the user's input
+The program generates a math equation and provides the answer. When the user inputs that number, the program generates either an anime quote or a dog fact
 
 #### Most Challenging topic in the course:
 n/a 
