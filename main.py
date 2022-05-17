@@ -17,8 +17,10 @@ def main():
     print(dog)
   elif answer == 3:
     print(anime)
+  elif answer > 3:  #if the user inputs a number>3, it will generates an anime quote
+    print(anime)
     print("if you like the quote, watch the anime!!!")
-  else: 
-     print("Please enter a number 1-3")
+  else:
+    print("please enter a number 1-3")
 
 main()
